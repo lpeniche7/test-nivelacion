@@ -27,7 +27,7 @@ GitHub Proyecto final para Demo de Aplicacion
 https://github.com/lpeniche7/nivelacion-mintic
 
 GitHub Proyecto final para pruebas de widget por la web
-
+https://github.com/lpeniche7/test-nivelacion
 
 
 Nota: este fue el comando para realizar el test de widget e integracion ya que con el que se menciona en las instrucciones arrojaba errores 
